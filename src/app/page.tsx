@@ -108,7 +108,7 @@ export default function Home() {
       Send Email
     </a>
     <div className="mt-10 flex justify-center gap-6 text-2xl">
-      <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer" className="hover:text-[#E63946] transition">
+      <a href="https://www.instagram.com/jkarts67" target="_blank" rel="noopener noreferrer" className="hover:text-[#E63946] transition">
         <i className="fab fa-instagram"></i>
       </a>
       <a href="https://www.linkedin.com/in/yourusername/" target="_blank" rel="noopener noreferrer" className="hover:text-[#E63946] transition">
