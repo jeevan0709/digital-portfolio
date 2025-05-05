@@ -96,7 +96,7 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-20 bg-[#FFF8F0] text-[#1D1D1D]">
   <div className="max-w-4xl mx-auto text-center px-6">
-    <h2 className="text-3xl font-bold mb-4">Let's Connect</h2>
+    <h2 className="text-3xl font-bold mb-4">Let&apos;s Connect</h2>
     <p className="mb-8 text-lg">
       Whether you have a project in mind, want to collaborate, or just want to say hi —
       my inbox is always open.
