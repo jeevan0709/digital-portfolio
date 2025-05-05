@@ -34,7 +34,7 @@ export default function Home() {
           <img src="/ChatGPT Image May 3, 2025, 12_06_09 PM.png" alt="Profile" className="rounded-2xl shadow-md w-full h-auto" />
           <div>
             <h3 className="text-3xl font-bold text-[#E63946] mb-4">About Me</h3>
-            <p className="mb-4 text-lg">I'm a passionate digital artist focused on creating expressive and meaningful visual stories. With a background in design and years of experimentation, I blend creativity with technical skills to bring ideas to life.</p>
+            <p className="mb-4 text-lg">I&apos;m a passionate digital artist focused on creating expressive and meaningful visual stories. With a background in design and years of experimentation, I blend creativity with technical skills to bring ideas to life.</p>
             <h4 className="text-xl font-semibold mt-6 mb-2">Skills:</h4>
             <ul className="list-disc list-inside">
               <li>Digital Illustration</li>
