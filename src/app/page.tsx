@@ -31,7 +31,7 @@ export default function Home() {
       {/* About Section */}
       <section id="about" className="py-24 px-6 bg-[#FFF8F0]">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
-          <img src="/ChatGPT Image May 3, 2025, 12_06_09 PM.png" alt="Profile" className="rounded-2xl shadow-md w-full h-auto" />
+          <img src="/LOGO.png" alt="Profile" className="rounded-2xl shadow-md w-full h-auto" />
           <div>
             <h3 className="text-3xl font-bold text-[#E63946] mb-4">About Me</h3>
             <p className="mb-4 text-lg">I&apos;m a passionate digital artist focused on creating expressive and meaningful visual stories. With a background in design and years of experimentation, I blend creativity with technical skills to bring ideas to life.</p>
@@ -102,7 +102,7 @@ export default function Home() {
       my inbox is always open.
     </p>
     <a
-      href="mailto:youremail@example.com"
+      href="mailto:jeevankumard0709@gmail.com"
       className="inline-block bg-[#E63946] text-white px-6 py-3 rounded-full text-lg font-semibold shadow-md hover:bg-[#d62828] transition"
     >
       Send Email
